@@ -1,2 +1,3 @@
-# PrepCourse-Henry1
-Repositorio de prueba del modulo 2 del prepcourse de Henry
+Este archivo es una prueba de como crear un repositorio y colonarlo desde github a mi computadora.
+
+
